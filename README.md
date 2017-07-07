@@ -1,2 +1,6 @@
 # Loaders
-https://codepen.io/Nagisa1130/pen/eRVGjm
+This repository is now under constructed!...
+
+### Less is more!
+Many neat and beautiful loaders you can choose between...
+see demo 👉🏻 [here](https://codepen.io/Nagisa1130/pen/eRVGjm)
